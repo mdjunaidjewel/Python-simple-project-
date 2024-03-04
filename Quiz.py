@@ -29,8 +29,8 @@ Question4 =''' Which method can be used to return a string in upper case letters
 
 1) upper()
 2) toUpperCase()
-3)uppercase()
-4)upperCase()
+3) uppercase()
+4) upperCase()
 
 '''
 
